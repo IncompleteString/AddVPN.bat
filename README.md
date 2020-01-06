@@ -14,5 +14,7 @@ Thank You to whom ever I copy and pasted from!
 
 For more information about some of the PowerShell commands please see:
 https://docs.microsoft.com/en-us/powershell/module/vpnclient/add-vpnconnection?view=win10-ps
+
 https://docs.microsoft.com/en-us/powershell/module/vpnclient/set-vpnconnectionipsecconfiguration?view=win10-ps
+
 https://github.com/paulstancer/VPNCredentialsHelper
