@@ -17,10 +17,10 @@ Install-PackageProvider -Name NuGet -MinimumVersion 2.8.5.201 -Force
 Install-Module -Name VPNCredentialsHelper
 
 ###configuration###
-$name = Read-host -Prompt "Enter the name of the VPN connection?"
-$address = Read-Host -Prompt "Enter the IP of the VPN server?"
-$username = Read-Host -Prompt "Enter your VPN username?"
-$plainpassword = Read-Host -Prompt "Enter your VPN password?"
+$name = Read-host -Prompt "Enter the name of the VPN connection"
+$address = Read-Host -Prompt "Enter the IP of the VPN server"
+$username = Read-Host -Prompt "Enter your VPN username"
+$plainpassword = Read-Host -Prompt "Enter your VPN password"
 $ipsecsecret = Read-Host -Prompt "Enter the IPSec Secret / Pre-Shared Key of the VPN"
 
 
